@@ -1,2 +1,2 @@
 # solar.mercury
-code commit
+test freestyle
